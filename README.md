@@ -1,2 +1,2 @@
 # Image-Segmentation-Remote-Sensing
-We utilize image segmentation to detect house roofs in satellite images, strategically leveraging transfer learning techniques.
+Remote sensing involves acquiring information about objects or areas from a distance, often through aircraft or satellites. This project focuses on labeling house roofs using image segmentation based on satellite images. What makes this project intriguing is the constraint of having only a limited set of labeled images (around 20). Addressing this challenge necessitates the application of **transfer learning** techniques.
